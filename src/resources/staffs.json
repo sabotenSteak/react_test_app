@@ -1,0 +1,38 @@
+[
+    {
+    "name":"田中 一",
+    "nameEn":"TANAKA Hajime",
+    "id":"1234",
+    "position":"Senior Director",
+    "associatedBadge":[
+        {
+            "badgeValue":"01-01",
+            "badgeName":"焼き菓子"
+        },
+        {
+            "badgeValue":"01-02",
+            "badgeName":"果物又は野菜"
+        },
+        {
+            "badgeValue":"01-03",
+            "badgeName":"チーズ、バター、その他の乳製品"
+        }
+        ]
+    },
+    {
+    "name":"遠藤 逢人",
+    "nameEn":"ENDO Auto",
+    "id":"1984",
+    "position":"Director",
+    "associatedBadge":[
+        {
+            "badgeValue":"10-01",
+            "badgeName":"置時計"
+        },
+        {
+            "badgeValue":"10-02",
+            "badgeName":"腕時計"
+        }
+    ]
+    }
+]
